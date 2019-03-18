@@ -46,3 +46,6 @@ Data berhasil dihapus
 
 Dan muncul tampilan, tabel data seperti semula
 ![alt text](https://github.com/Rahmawatiasysyifaputri/Modul-PHP-bag-3-dan-4/blob/master/setelah%20hapus%20datamatkul.PNG?raw=true)
+
+
+Jadi saya disini mempelajari banayak hal, termasuknya disini juga mempelajari database php, dan cara saling meng-connect file 1 dengan file php lainnya.
